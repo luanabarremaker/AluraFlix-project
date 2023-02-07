@@ -1,0 +1,90 @@
+corpo {
+  font-family :  "Open Sans" , sans-serif;
+  alinhamento de texto : centro;
+  plano de fundo :  gradiente linear ( # 610000 ,  # 000000 );
+  tamanho do plano de fundo : automático;
+  posição de fundo : topo central;
+  repetição de fundo : sem repetição;
+}
+
+. recipiente {
+  alinhamento de texto : centro;
+  preenchimento :  20 px ;
+}
+
+. título da página {
+  cor :  #ffffff ; _
+  margem :  0  0  5 px ;
+  tamanho da fonte :  50 px ;
+}
+
+. subtítulo da página {
+  cor :  #ffffff ; _
+  margem superior :  20 px ;
+  tamanho da fonte :  20 px ;
+}
+
+. logotipo da página {
+  largura :  150 px ;
+}
+
+. alura-logo {
+  largura :  40 px ;
+  posição : absoluto;
+  superior :  10 px ;
+  direita :  10 px ;
+}
+
+# listaFilmes  img {
+  margem :  10 px ;
+  altura máxima :  250 px ;
+  margem inferior :  12 px ;
+  raio da borda :  6 px ;
+}
+
+# listaFilmesimg :  hover {
+  transformar :  escala ( 1.2 );
+  duração da transição :  400 ms ;
+}
+
+# listaFilmes  a {
+  exibição : flex em linha;
+  flex-direction : coluna;
+  altura :  250 px ;
+  largura :  180 px ;
+  margem :  1 em  1 em ;
+  tamanho da fonte :  16 px ;
+  cor : branco;
+  decoração de texto : nenhum;
+}
+
+. wrapper de formulário {
+  margem :  0  0  15 px ;
+}
+
+. entrada do wrapper de formulário  {
+  exibição : bloco;
+  margem :  0 automático;
+  raio da borda :  5 px ;
+  preenchimento :  10 px  15 px ;
+}
+#mensagemDeErro { _
+  cor : branco;
+}
+
+. botão de wrapper de formulário  {
+  borda :  0 ;
+  cor :  #ffffff ; _
+  plano de fundo :  # da1e26 ;
+  peso da fonte : negrito;
+  preenchimento :  15 px  20 px ;
+  tamanho da fonte :  16 px ;
+  raio da borda :  12 px ;
+  margem superior :  20 px ;
+  cursor : ponteiro;
+  transição :  0,3 s ;
+}
+
+. botão de wrapper de formulário  : passe o mouse {
+  opacidade :  0,8 ;
+}
