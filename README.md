@@ -1,8 +1,4 @@
 <h1 align="center">Projeto AluraFlix - Imersão Dev 📚 </h1>
-<h2 align="center">     
-    🚧 <i> Projeto em manutenção </i> 🚧
-</h2>
-
 ![Captura de tela 2023-02-07 205903](https://user-images.githubusercontent.com/123482142/217394437-27dcfa33-6602-439c-9b1c-0d4f8bd5a83d.png)
 
 ## Projeto criado durante a imersão dev da alura. 📌
